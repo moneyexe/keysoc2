@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">keysoc2</string>
+    <string name="title_albumsList">Albums List</string>
+    <string name="title_bookMark">Book Mark</string>
+
+    <string name="btn_bookMark">Book Mark</string>
+    <string name="btn_removebookMark">Remove</string>
+</resources>
